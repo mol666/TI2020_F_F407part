@@ -13,13 +13,13 @@ LAST UPDATE: 22/12/2020
 |  QQ-mail | coco.yyyy@qq.com |
 |  G-mail | chanmol666@gmail.com |
 
-## Introduction
+## 简介/Introduction
 
 2020TI杯全国大学生电子设计大赛F题解决方案F407部分，与视觉部分和数据处理部分共同组成最终成品。
 
 图片见**End Product**
 
-## Details
+## 细节/Details
 
 - 人脸识别和口罩识别已经交由K210处理，只需处理K210返回的信号。F407主要承担测温、显示、报警的功能。
 
